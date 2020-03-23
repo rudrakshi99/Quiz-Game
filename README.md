@@ -1,5 +1,5 @@
 # Quiz-Game
-This is a Quiz Game Mini Project in C designed as a simple console application. In this project, a number of questions are asked and questions are chosen in such a a way that they cover all fields of a typical quiz contest. The user’s general knowledge is tested with quiz questions regarding science, technology, movies, sports, general health, geography and many more.
+This is a Quiz Game Mini Project in C designed as a simple console application. In this project, a number of questions are asked and questions are chosen in such a way that they cover all fields of a typical quiz contest. The user’s general knowledge is tested with quiz questions regarding science, technology, movies, sports, general health, geography and many more.
 
 The source code is to be compiled in Code::Blocks with gcc compiler. This quiz game in C is not designed to run on the Turbo C versions. 
 
